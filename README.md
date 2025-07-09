@@ -1,3 +1,13 @@
+[![smithery badge](https://smithery.ai/badge/@FerryZhaoHui/linear-test-mcp)](https://smithery.ai/server/@FerryZhaoHui/linear-test-mcp)
+
+### Installing via Smithery
+
+To install Linear Issue Tracker Integration for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@FerryZhaoHui/linear-test-mcp):
+
+```bash
+npx -y @smithery/cli install @FerryZhaoHui/linear-test-mcp --client claude
+```
+
 ### Setup
 
 - Create Linear API Key
